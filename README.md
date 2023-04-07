@@ -1,2 +1,2 @@
 # odin-recipes
-    This is a recipe website as a part of the Odin project
+    This is a recipe website as a part of the Odin project. I dont have a full description of the output of this effort yet; however, I expect it to look like a rather crude version of the many recipe sites out there, albeit without all of the advertising that is so common these days. Interfacing with GitHub and making saves via git will hopefully also become a bit more straightforward and intuitive. My first commit to GIT for this and ohter files within the recipe project is commencing on 04.07.2023.
